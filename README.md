@@ -75,9 +75,18 @@ src="https://img.shields.io/github/followers/RicardoDataScientist?logo=github&st
 </table>
 
 <p align="center">
-  <a href="http://www.github.com/RicardoDataScientist">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoDataScientist&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="http://www.github.com/RicardoDataScientist">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoDataScientist&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+        </a>
+      </td>
+      <td>
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*v7N23-36YiNV6dNG.gif" width="100%" autoplay loop />
+      </td>
+    </tr>
+  </table>
 </p>
 
 
