@@ -55,10 +55,28 @@ src="https://img.shields.io/github/followers/RicardoDataScientist?logo=github&st
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RicardoDataScientist"><img src="https://github-readme-stats.vercel.app/api?username=RicardoDataScientist&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RicardoDataScientist's GitHub stats" /></a>
+## My GitHub Stats  
 
-<a href="https://github.com/RicardoDataScientist" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDataScientist&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/RicardoDataScientist">
+        <img src="https://github-readme-stats.vercel.app/api?username=RicardoDataScientist&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="RicardoDataScientist's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RicardoDataScientist">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDataScientist&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/RicardoDataScientist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoDataScientist&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="http://www.github.com/RicardoDataScientist">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoDataScientist&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
 
 
